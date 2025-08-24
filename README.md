@@ -1,4 +1,3 @@
-Here’s a clean, copy-paste **README.md** you can drop into your repo ✅
 
 ---
 
